@@ -1,0 +1,21 @@
+# MacOS
+.DS_Store
+
+# Gradle
+.gradle
+/build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# IntelliJ
+*.iml
+.idea/
+*.ipr
+*.iws
+out/
+.idea_modules/
+
+# VSCode
+bin/
+.vscode/

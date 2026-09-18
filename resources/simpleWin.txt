@@ -1,0 +1,55 @@
+0123456       
+       
+       
+       
+       
+       
+Player O: 0123456       
+       
+       
+       
+       
+      O
+Player X: 0123456       
+       
+       
+       
+       
+X     O
+Player O: 0123456       
+       
+       
+       
+      O
+X     O
+Player X: 0123456       
+       
+       
+       
+      O
+XX    O
+Player O: 0123456       
+       
+       
+      O
+      O
+XX    O
+Player X: 0123456       
+       
+       
+      O
+      O
+XXX   O
+Player O: 0123456       
+       
+       
+      O
+      O
+XXX  OO
+Player X: Player X wins
+0123456       
+       
+       
+      O
+      O
+XXXX OO
